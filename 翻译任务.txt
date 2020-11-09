@@ -1,9 +1,0 @@
-﻿任务描述：
-自动翻译文件testResult.data中的<summary>和<text>标签的内容，中文->英文。
-增加两个标签<summary_trans>和<text_trans>存放翻译结果。
-
-参考技术：
-可以使用第三方库，也可以使用翻译引擎（baidu、google）等
-
-参考代码：
-trans_google.py
